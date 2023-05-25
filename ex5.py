@@ -9,4 +9,5 @@ print(repos)
 #git status - status, duh
 #git add - dodanie "do poczekalni"
 #git commit -m "Add <<plik>>"
+#git commit -m "Edit <<ex5.py>>"
 #git push - wypchnięcie do repo
