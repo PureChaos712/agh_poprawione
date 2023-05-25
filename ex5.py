@@ -8,7 +8,7 @@ for repo in repos:
     print("Project:", repo.get('name'))
     print("URL:", repo.get('url'))
 
-#git status - status, duh
-#git add - dodanie "do poczekalni"
+#git status
+#git add
 #git commit -m "A message describing what you have done to make this snapshot different"
-#git push - wypchnięcie do repo
+#git push
